@@ -1,11 +1,13 @@
 <h1 align="center">Hi 🤘🏻, I'm Gopala Goyal</h1>
 <h3 align="center">I am an active, collaborative, impactful, and innovative technologist studying Masters in Management Analytics from Smith School of Business @ Queen's University. I have worked with Fidelity International, an investment management organisation, for four amazing years./h3>
 
-<h3 align="center"> 💻 Read more ⏬ ⏬ to know more about me 💻</h3>
+<h3 align="center"> 💻 Continue reading ⏬ to know more about me 💻</h3>
 
 <p align="left"> <a href="https://twitter.com/gopalagoyall" target="blank"><img src="https://img.shields.io/twitter/follow/gopalagoyall?logo=twitter&style=for-the-badge" alt="gopalagoyall" /></a> </p>
 
 - 🔭 I’m currently working on **developing my skills and competencies towards a Data Scientist Role**
+  
+- 📚 I’m associated with **Udacity - Project Mentor for Security Analyst Nanodegree**
 
 - 🌱 I’m currently learning **Python, R, Data Science and Machine Learning skills**
 
@@ -13,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopala-goyal](https://github.com/gopala-goyal)
 
-- 💬 Ask me about **Software Development, Agile, Data Analytics, Project Management**
+- 💬 Ask me about **Software Development, Agile, Data Analytics, Project Management, Online learning platforms**
 
 - 📫 How to reach me **gopala.goyal@queensu.ca**
 
@@ -34,3 +36,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopala-goyal&show_icons=true&locale=en&layout=compact" alt="gopala-goyal" /></p>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="gopala-goyal" /> </p>  

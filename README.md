@@ -1,5 +1,7 @@
 <h1 align="center">Hi 🤘🏻, I'm Gopala Goyal</h1>
-<h3 align="center">I am an active, collaborative, impactful, and innovative technologist studying Masters in Management Analytics from Smith School of Business @ Queen's University</h3>
+<h3 align="center">I am an active, collaborative, impactful, and innovative technologist studying Masters in Management Analytics from Smith School of Business @ Queen's University. I have worked with Fidelity International, an investment management organisation, for four amazing years./h3>
+
+<h3 align="center"> 💻 Read more ⏬ ⏬ to know more about me 💻</h3>
 
 <p align="left"> <a href="https://twitter.com/gopalagoyall" target="blank"><img src="https://img.shields.io/twitter/follow/gopalagoyall?logo=twitter&style=for-the-badge" alt="gopalagoyall" /></a> </p>
 

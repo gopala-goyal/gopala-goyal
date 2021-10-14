@@ -32,5 +32,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopala-goyal&show_icons=true&locale=en&layout=compact" alt="gopala-goyal" /></p>
-
-![image](https://user-images.githubusercontent.com/64698636/137239919-81b4ede7-82c6-415c-9b7e-2c940dbae18a.png)

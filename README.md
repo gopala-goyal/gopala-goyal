@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gopala.goyal@queensu.ca**
 
-- ⚡ Fun fact **I love to talk about technology**
+- ⚡ Fun fact **Still looking for a fun fact about myself :-P**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">

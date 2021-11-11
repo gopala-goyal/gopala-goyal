@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Still looking for a fun fact about myself :-P**
 
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">You can connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/gopalagoyall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gopalagoyall" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gopalagoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopalagoyal" height="30" width="40" /></a>

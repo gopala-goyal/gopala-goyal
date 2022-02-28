@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤘🏻, I'm Gopala Goyal</h1>
-<h3 align="center">I am an active, collaborative, impactful, and innovative technologist with a four year experience of transforming investment platforms with the help of Data as a weapon and applying data science skills at Fidelity International. I am currently working as a Business Analytics Intern at [Utradea Inc.](https://utradea.com) and studying Masters in Management Analytics from Smith School of Business @ Queen's University.</h3>
+<h3 align="center">I am an active, collaborative, impactful, and innovative technologist with a four year experience of transforming investment platforms with the help of Data as a weapon and applying data science skills at Fidelity International. I am currently working as a Business Analytics Intern at Utradea Inc.  and studying Masters in Management Analytics from Smith School of Business @ Queen's University.</h3>
 
 <h3 align="center"> 💻 Continue reading ⏬ to know more about me 💻</h3>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤘🏻, I'm Gopala Goyal</h1>
-<h3 align="center">I am an active, collaborative, impactful, and innovative technologist with a four year experience of transforming investment platforms with the help of Data as a weapon and applying data science skills at Fidelity International. I am currently working as a Business Analytics Intern at Utradea Inc.  and studying Masters in Management Analytics from Smith School of Business @ Queen's University.</h3>
+<h3 align="center">I am an active, collaborative, and innovative technologist with a four year experience of transforming investment platforms with the help of Data as a weapon and applying data science skills at Fidelity International. I am currently working as a Business Analytics Intern at Utradea Inc.  and studying Masters in Management Analytics from Smith School of Business @ Queen's University.</h3>
 
 <h3 align="center"> 💻 Continue reading ⏬ to know more about me 💻</h3>
 
@@ -33,5 +33,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopala-goyal&show_icons=true&locale=en&layout=compact" alt="gopala-goyal" /></p>
-  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gopala-goyal&show_icons=true&theme=radical)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="gopala-goyal" /> </p>  

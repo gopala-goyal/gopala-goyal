@@ -32,6 +32,8 @@
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="40" height="40"/> </a>
 </p>
 
+<p><img align="left" alt="Gopala's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gopala-goyal&show_icons=true&theme=radical&hide=contribs,prs&count_private=true" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gopala-goyal&show_icons=true&locale=en&layout=compact" alt="gopala-goyal" /></p>
-<p><img align="left" alt="Gopala's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gopala-goyal&show_icons=true&theme=radical&hide=contribs,prs" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopala-goyal&label=Profile%20views&color=0e75b6&style=flat" alt="gopala-goyal" /> </p>  
